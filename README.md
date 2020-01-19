@@ -17,5 +17,4 @@
 
 
 #### Пример работы:
-<img scr = "https://github.com/alena195101/Schelling-Model/blob/master/example.jpg" width="200" height="200">
-<img scr = "https://github.com/alena195101/Schelling-Model/blob/master/example2.jpg" width="200" height="200">
+<img scr="https://github.com/alena195101/Schelling-Model/blob/master/example.jpg?raw=true" width="200" height="200">
